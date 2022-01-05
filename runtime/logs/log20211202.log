@@ -1,0 +1,8 @@
+[INFO][article.go:66]2021/12/02 14:42:15 state 状态只允许0或1
+[INFO][article.go:66]2021/12/02 14:42:15 tag_id 标签ID必须大于0
+[WARN][upload.go:17]2021/12/02 22:47:33 request Content-Type isn't multipart/form-data
+[WARN][upload.go:17]2021/12/02 22:47:54 request Content-Type isn't multipart/form-data
+[WARN][upload.go:17]2021/12/02 22:49:22 request Content-Type isn't multipart/form-data
+[WARN][upload.go:17]2021/12/02 22:49:24 request Content-Type isn't multipart/form-data
+[WARN][upload.go:17]2021/12/02 22:49:25 request Content-Type isn't multipart/form-data
+[WARN][upload.go:41]2021/12/02 22:56:37 open runtime/upload/images/8f2d993007334a01e7bdc31fa487ebfc.png: The system cannot find the path specified.
